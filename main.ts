@@ -8,4 +8,5 @@ class Greeter {
     }
 }
 
+//change to it
 var greeter = new Greeter(" Twitter");
